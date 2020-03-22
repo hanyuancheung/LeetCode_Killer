@@ -1,6 +1,6 @@
 
 
-# ProjectName
+# LeetCode_Killer
 
 This reprository is to help myself and others practice coding aability and improve basic skills. I will refresh it to show my personal codes here. If it works, please give me a star or fork it to dev with me.
 
@@ -163,7 +163,7 @@ Blog:[https://zhyChestercheung.github.io](https://zhychestercheung.github.io)  &
 [license-shield]: https://img.shields.io/github/license/zhyChesterCheung/LeetCode_Killer.svg?style=flat-square
 [license-url]: https://github.com/zhyChesterCheung/LeetCode_Killer/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/zhyChesterCheung
+[linkedin-url]: https://linkedin.com/in/ChesterCheung
 
 
 
