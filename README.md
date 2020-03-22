@@ -2,7 +2,13 @@
 
 # LeetCode_Killer
 
-This reprository is to help myself and others practice coding aability and improve basic skills. I will refresh it to show my personal codes here. If it works, please give me a star or fork it to dev with me.
+## "——宁有岁月可回首，望以奋斗共白头"
+
+This reprository is to help our teamers and others practice coding aability and improve basic algorithm skills. Our team will refresh it to show our codes here. If it works, please give me a star or fork this repository to dev with us together.
+
+团队:AweHackers。成员均来自湖南大学、中南大学的Hackers，在未来的1～2年内会找到属于自己的实习、工作、研校，但无论出路如何算法都是必备技能。准备在Gayhub平台上记录我们成长的步伐，希望大家能够给予支持和鼓励，也期待和大家一起成长～如果我们的内容对你有所帮助，请不吝你的star和fork～**宁有岁月可回首，望以奋斗共白头**
+
+![leetcode](https://github.com/zhyChesterCheung/LeetCode_Killer/images/leetcode.png)
 
 <!-- PROJECT SHIELDS -->
 
@@ -23,7 +29,7 @@ This reprository is to help myself and others practice coding aability and impro
 
   <h3 align="center">README.Project</h3>
   <p align="center">
-    Here is my readme file to begin my project
+    Here is my readme file to begin my project！
     <br />
     <a href="https://github.com/zhyChesterCheung/LeetCode_Killer"><strong>探索本项目的文档 »</strong></a>
     <br />
@@ -38,13 +44,13 @@ This reprository is to help myself and others practice coding aability and impro
 </p>
 
 
- 本篇README.md面向所有Contributor进行配置
+ 本篇README面向所有Contributor进行配置
  
 ## 目录
 
-- [上手指南](#上手指南)
-  - [开发前的配置要求](#开发前的配置要求)
-  - [安装步骤](#安装步骤)
+- [汇总](#汇总)
+- [开发前的配置要求](#开发前的配置要求)
+- [安装步骤](#安装步骤)
 - [文件目录说明](#文件目录说明)
 - [开发的架构](#开发的架构)
 - [部署](#部署)
@@ -55,12 +61,20 @@ This reprository is to help myself and others practice coding aability and impro
 - [作者](#作者)
 - [鸣谢](#鸣谢)
 
+### 汇总
 
-##### **开发前的配置要求**
+| 序号 | 题目&题解                                                    | AC                                                         |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1    |[两数之和](https://github.com/zhyChesterCheung/LeetCode_Killer/codes/LeetCode第1题：两数之和.md)|3ms|
+| 2    |[两数相加]()|xx ms|
+| 3    |
+
+
+### 开发前的配置要求
 
 本项目可运行于任何开发平台，包括但不限于Java、C、Cpp等语言.
 
-##### **安装步骤**
+### 安装步骤
 
 1. Get a free API Key at [https://zhychestercheung.github.io](https://zhychestercheung.github.io)
 2. Clone the repo
@@ -91,8 +105,6 @@ filetree
 └── /util/
 
 ```
-
-
 
 
 
@@ -131,9 +143,18 @@ filetree
 
 ### 作者
 
-张瀚元@Chester_Cheung
+张瀚元@Chester
+沈伟峰@Wilfred
+石纪@Brant
 
-Blog:[https://zhyChestercheung.github.io](https://zhychestercheung.github.io)  &ensp; qq:2640617395  &ensp; Wechat: x2235345
+
+Chester's Blog:[https://zhyChestercheung.github.io](https://zhychestercheung.github.io)  &ensp; qq:2640617395  &ensp; Wechat: x2235345
+Wilfred's Bolg:[https://wilfredshen.cn/](https://wilfredshen.cn/) &ensp; qq:215510355 &ensp;  Wechat:WilfredShen-
+Brant's Blog:[brantshi.github.io](brantshi.github.io) &ensp;  qq:502688799  &ensp;  Wechat:sqh521622
+
+联系邮箱：cheung.zhy.csu@gmail.com
+
+加微信的同学请别忘写好备注～
 
  *您也可以在贡献者名单中参看所有参与该项目的开发者。*
 
@@ -164,7 +185,6 @@ Blog:[https://zhyChestercheung.github.io](https://zhychestercheung.github.io)  &
 [license-url]: https://github.com/zhyChesterCheung/LeetCode_Killer/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/ChesterCheung
-
 
 
 
