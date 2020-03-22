@@ -69,7 +69,7 @@ This reprository is to help our teamers and others practice coding ability and i
 
 | 序号 | 题目&题解                                    | AC                                    |更新日期    |
 | ---- | -------------------------------------------- | -------------------------------------- |-------|
-| 1    |[两数之和](https://github.com/zhyChesterCheung/LeetCode_Killer/codes/LeetCode第1题：两数之和.md)|3ms|2020-3-22|
+| 1    |[两数之和](https://github.com/zhyChesterCheung/LeetCode_Killer/codes/leetcode1.md)|3ms|2020-3-22|
 | 2    |[两数相加]()|xx ms|xx-xx-xx|
 | 3    |    |     |   |
 | 4    |    |     |   |
