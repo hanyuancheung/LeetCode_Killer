@@ -2,13 +2,13 @@
 
 # LeetCode_Killer
 
-## "——宁有岁月可回首，望以奋斗共白头"
+### "——愿有岁月可回首，望以奋斗共白头"
 
 This reprository is to help our teamers and others practice coding ability and improve basic algorithm skills. Our team will refresh it to show our codes here. If it works, please give me a star or fork this repository to dev with us together.
 
 团队：AweHackers
 
-成员均来自湖南大学、中南大学的Hackers，在未来的1～2年内会找到属于自己的实习、工作、研校，但无论出路如何算法都是必备技能。准备在Gayhub平台上记录我们成长的步伐，希望大家能够给予支持和鼓励，也期待和大家一起成长～如果我们的内容对你有所帮助，请不吝你的star和fork～**宁有岁月可回首，望以奋斗共白头**
+成员均来自湖南大学、中南大学的Hackers，在未来的1～2年内会找到属于自己的实习、工作、研校，但无论出路如何算法都是必备技能。准备在Gayhub平台上记录我们成长的步伐，希望大家能够给予支持和鼓励，也期待和大家一起成长～如果我们的内容对你有所帮助，请不吝你的star和fork～**愿有岁月可回首，望以奋斗共白头**
 
 
 ![leetcode](https://camo.githubusercontent.com/506f115725003382e11e4aa3561ca7df7b99d247/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313934303331372d653833373138326138303563656363652e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430)
