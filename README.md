@@ -9,9 +9,8 @@ This reprository is to help our teamers and others practice coding aability and 
 团队:AweHackers。成员均来自湖南大学、中南大学的Hackers，在未来的1～2年内会找到属于自己的实习、工作、研校，但无论出路如何算法都是必备技能。准备在Gayhub平台上记录我们成长的步伐，希望大家能够给予支持和鼓励，也期待和大家一起成长～如果我们的内容对你有所帮助，请不吝你的star和fork～**宁有岁月可回首，望以奋斗共白头**
 
 
-<p align="center">
-  <img src="https://github.com/zhyChesterCheung/LeetCode_Killer/images/leetcode.png" alt="Logo">
-</p>
+![leetcode](https://camo.githubusercontent.com/506f115725003382e11e4aa3561ca7df7b99d247/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313934303331372d653833373138326138303563656363652e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430)
+
 
 <!-- PROJECT SHIELDS -->
 
@@ -91,21 +90,10 @@ eg:
 
 ```
 filetree 
-├── ARCHITECTURE.md
-├── LICENSE.txt
 ├── README.md
-├── /account/
-├── /bbs/
-├── /docs/
-│  ├── /rules/
-│  │  ├── backend.txt
-│  │  └── frontend.txt
-├── manage.py
-├── /oa/
-├── /static/
-├── /templates/
-├── useless.md
-└── /util/
+├── /codes/
+├── /images/
+├── LICENSE
 
 ```
 
@@ -117,7 +105,7 @@ filetree
 
 ### 部署
 
-无需部署，使用是擅长的IDEA打开即可
+无需部署，使用你所擅长的IDEA打开即可
 
 ### 使用到的框架
 
@@ -147,18 +135,18 @@ filetree
 ### 作者
 
 
-张瀚元@Chester
-
-沈伟峰@Wilfred
-
-石纪@Brant
-
+**张瀚元@Chester**
 
 Chester's Blog:[https://zhyChestercheung.github.io](https://zhychestercheung.github.io)  &ensp; qq:2640617395  &ensp; Wechat: x2235345
 
+**沈伟峰@Wilfred**
+
 Wilfred's Bolg:[https://wilfredshen.cn/](https://wilfredshen.cn/) &ensp; qq:215510355 &ensp;  Wechat:WilfredShen-
 
+**石纪@Brant**
+
 Brant's Blog:[brantshi.github.io](brantshi.github.io) &ensp;  qq:502688799  &ensp;  Wechat:sqh521622
+
 
 **联系邮箱：cheung.zhy.csu@gmail.com**
 
