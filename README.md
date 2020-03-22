@@ -2,7 +2,7 @@
 
 # ProjectName
 
-ProjectName and Description
+This reprository is to help myself and others practice coding aability and improve basic skills. I will refresh it to show my personal codes here. If it works, please give me a star or fork it to dev with me.
 
 <!-- PROJECT SHIELDS -->
 
@@ -133,7 +133,7 @@ filetree
 
 张瀚元@Chester_Cheung
 
-Blog:[https://zhyChestercheung.github.io](https://zhychestercheung.github.io)  &ensp; qq:2640617395
+Blog:[https://zhyChestercheung.github.io](https://zhychestercheung.github.io)  &ensp; qq:2640617395  &ensp; Wechat: x2235345
 
  *您也可以在贡献者名单中参看所有参与该项目的开发者。*
 
@@ -149,7 +149,6 @@ Blog:[https://zhyChestercheung.github.io](https://zhychestercheung.github.io)  &
 - [Choose an Open Source License](https://choosealicense.com)
 - [GitHub Pages](https://pages.github.com)
 - [Animate.css](https://daneden.github.io/animate.css)
-- [xxxxxxxxxxxxxx](https://connoratherton.com/loaders)
 
 <!-- links -->
 [your-project-path]:zhyChesterCheung/LeetCode_Killer
@@ -162,7 +161,7 @@ Blog:[https://zhyChestercheung.github.io](https://zhychestercheung.github.io)  &
 [issues-shield]: https://img.shields.io/github/issues/zhyChesterCheung/LeetCode_Killer.svg?style=flat-square
 [issues-url]: https://img.shields.io/github/issues/zhyChesterCheung/LeetCode_Killer.svg
 [license-shield]: https://img.shields.io/github/license/zhyChesterCheung/LeetCode_Killer.svg?style=flat-square
-[license-url]: https://github.com/zhyChesterCheung/LeetCode_Killer/blob/master/LICENSE.txt
+[license-url]: https://github.com/zhyChesterCheung/LeetCode_Killer/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/zhyChesterCheung
 
