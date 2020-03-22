@@ -8,7 +8,10 @@ This reprository is to help our teamers and others practice coding aability and 
 
 团队:AweHackers。成员均来自湖南大学、中南大学的Hackers，在未来的1～2年内会找到属于自己的实习、工作、研校，但无论出路如何算法都是必备技能。准备在Gayhub平台上记录我们成长的步伐，希望大家能够给予支持和鼓励，也期待和大家一起成长～如果我们的内容对你有所帮助，请不吝你的star和fork～**宁有岁月可回首，望以奋斗共白头**
 
-![leetcode](https://github.com/zhyChesterCheung/LeetCode_Killer/images/leetcode.png)
+
+<p align="center">
+  <img src="https://github.com/zhyChesterCheung/LeetCode_Killer/images/leetcode.png" alt="Logo">
+</p>
 
 <!-- PROJECT SHIELDS -->
 
@@ -139,20 +142,25 @@ filetree
 
 ### 版本控制
 
-该项目使用Git进行版本管理。您可以在repository参看当前可用版本。
+该项目使用Git进行版本管理。您可以在repository参看当前可用版本
 
 ### 作者
 
+
 张瀚元@Chester
+
 沈伟峰@Wilfred
+
 石纪@Brant
 
 
 Chester's Blog:[https://zhyChestercheung.github.io](https://zhychestercheung.github.io)  &ensp; qq:2640617395  &ensp; Wechat: x2235345
+
 Wilfred's Bolg:[https://wilfredshen.cn/](https://wilfredshen.cn/) &ensp; qq:215510355 &ensp;  Wechat:WilfredShen-
+
 Brant's Blog:[brantshi.github.io](brantshi.github.io) &ensp;  qq:502688799  &ensp;  Wechat:sqh521622
 
-联系邮箱：cheung.zhy.csu@gmail.com
+**联系邮箱：cheung.zhy.csu@gmail.com**
 
 加微信的同学请别忘写好备注～
 
