@@ -49,7 +49,7 @@ This reprository is to help our teamers and others practice coding ability and i
 
 
  本篇README面向所有developers进行配置
- 
+
 ## 目录
 
 - [汇总](#汇总)
@@ -71,7 +71,7 @@ This reprository is to help our teamers and others practice coding ability and i
 | ---- | -------------------------------------------- | -------------------------------------- |-------|
 | 1    |[两数之和](https://github.com/zhyChesterCheung/LeetCode_Killer/blob/master/codes/leetcode1.md)|3ms|2020-3-22|
 | 2    |[两数相加]()|xx ms|xx-xx-xx|
-| 3    |    |     |   |
+| 3    | 缺失数字 | 52ms | 2020-3-25 |
 | 4    |    |     |   |
 | 5    |    |     |   |
 | 6    |    |     |   |
