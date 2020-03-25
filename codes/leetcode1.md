@@ -20,7 +20,7 @@
 
 ### 题目解析
 
-使用查找表来解决该问题。
+1. 使用查找表来解决该问题。
 
 设置一个 map 容器 record 用来记录元素的值与索引，然后遍历数组 nums。
 
@@ -34,7 +34,7 @@
 
 ### 代码实现
 
-```
+```cpp
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -69,4 +69,27 @@ class Solution {
 
 ```
 
+### 题目解析
 
+2. 使用一遍哈希表来解决
+
+* 对数组进行遍历，每次将值和对应的数组下标存入哈希表中，
+* 同时每次进行判断，使用**result = target - num[1]**来得到我们的目标值，
+* 如果map中含有这个目标值，就创建一个新的数组返回我们这两个和为target数对应的下表。
+
+### 代码实现
+
+```java
+class Solution {
+    public int[] twoSum (int[] num, int target) {
+        HashMap<Integer, Integer> map = new HashMap<>();
+        for (int i = 0; i < num.length; i ++) {
+            int result = target - num[i];
+            if (map.containsKey(result)) {
+                return new int[] {map.get(result), i}
+            }
+            map.put(num[i], i);
+        }
+    }
+}
+```
