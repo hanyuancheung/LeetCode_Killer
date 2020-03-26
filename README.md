@@ -72,7 +72,7 @@ This reprository is to help our teamers and others practice coding ability and i
 | 1    |[两数之和](https://github.com/zhyChesterCheung/LeetCode_Killer/blob/master/codes/leetcode1.md)|3ms|2020-3-22|
 | 2    |[两数相加]()|xx ms|xx-xx-xx|
 | 3    |[缺失数字](https://github.com/zhyChesterCheung/LeetCode_Killer/blob/master/codes/LeetCode268.md)| 52ms | 2020-3-25 |
-| 4    |    |     |   |
+| 4    |[最长回文子串](https://github.com/zhyChesterCheung/LeetCode_Killer/blob/master/codes/LeetCode5.md)| 6ms | 2020-3-26 |
 | 5    |    |     |   |
 | 6    |    |     |   |
 | 7    |    |     |   |
