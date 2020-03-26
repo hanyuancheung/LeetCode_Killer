@@ -16,7 +16,7 @@ From Wilfred.
 注意: "aba" 也是一个有效答案。
 ```
 
-**示例1:**
+**示例2:**
 
 ```
 输入: "cbbd"
@@ -38,7 +38,7 @@ class Solution {
         if (len == 0) return "";
         int max = 1, maxl = 0, maxr = 0;// 记录最长回文子串的长度及其始末位置
         int left = 0, right = 0;// 回文子串的始末位置
-        while(right+1 < len) {
+        while (right+1 < len) {
             left = right;
             // 贪心策略，连续的重复字符视为一个整体，作为回文子串的中心
             while (right+1 < len && s.charAt(left) == s.charAt(right+1)) ++right;
@@ -74,5 +74,7 @@ class Solution {
 
 #### 复杂度分析
 
-时间复杂度：$ O(n^{2}) $
-空间复杂度：$ O(1) $
+```
+时间复杂度：O(n^{2})
+空间复杂度：O(1)
+```
