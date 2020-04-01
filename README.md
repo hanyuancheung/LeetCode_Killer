@@ -72,10 +72,10 @@ This reprository is to help our teamers and others practice coding ability and i
 | 1    |[1.两数之和](https://github.com/zhyChesterCheung/LeetCode_Killer/blob/master/codes/leetcode1.md)|3ms|2020-3-22|
 | 2    |[268.缺失数字](https://github.com/zhyChesterCheung/LeetCode_Killer/blob/master/codes/LeetCode268.md)| 52ms | 2020-3-25 |
 | 3    |[5.最长回文子串](https://github.com/zhyChesterCheung/LeetCode_Killer/blob/master/codes/LeetCode5.md)| 6ms | 2020-3-26 |
-| 4    |[2.两数相加](https://github.com/zhyChesterCheung/LeetCode_Killer/blob/master/codes/LeetCode2.md)| 3ms | 2020-3-29 |
-| 5    |[3.无重复字符的最长子串](https://github.com/zhyChesterCheung/LeetCode_Killer/blob/master/codes/LeetCode3.md)| 7ms | 2019-4-1 |
-| 6    |[4.寻找两个有序数组的中位数](https://github.com/zhyChesterCheung/LeetCode_Killer/blob/master/codes/LeetCode4.md)| 3ms | 2019-4-1 |
-| 7    |    |     |   |
+| 4    |[2.两数相加_zhy](https://github.com/zhyChesterCheung/LeetCode_Killer/blob/master/codes/LeetCode2.md)| 3ms | 2020-3-29 |
+| 5    |[2.两数相加_Brant](https://github.com/zhyChesterCheung/LeetCode_Killer/blob/master/codes/LeetCode2_B.md)|     | 2020-3-30 |
+| 6    |[3.无重复字符的最长子串](https://github.com/zhyChesterCheung/LeetCode_Killer/blob/master/codes/LeetCode3.md)| 7ms | 2019-4-1 |
+| 7    |[4.寻找两个有序数组的中位数](https://github.com/zhyChesterCheung/LeetCode_Killer/blob/master/codes/LeetCode4.md)| 3ms | 2019-4-1 |
 | 8    |    |     |   |
 | 9    |    |     |   |
 | 10   |    |     |   |
