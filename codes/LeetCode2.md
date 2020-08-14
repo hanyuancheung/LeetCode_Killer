@@ -1,6 +1,6 @@
 # LeetCode 第 1 号问题：两数相加
 
-**from Chester_zhy**
+**from zhanghanyuan**
 
 题目来源于 LeetCode 上第 2 号问题：两数相加。题目难度为 Medium，目前通过率为 37.0% 。
 

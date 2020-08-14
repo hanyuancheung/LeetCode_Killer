@@ -1,6 +1,6 @@
 # LeetCode 第 3 号问题：无重复字符的最长子串
 
-**from Chester_zhy**
+**from zhanghanyuan**
 
 题目来源于 LeetCode 上第 3 号问题：无重复字符的最长子串。题目难度为 Medium。
 

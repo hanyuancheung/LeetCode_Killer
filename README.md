@@ -74,14 +74,14 @@ This reprository is to help our teamers and others practice coding ability and i
 | 3    |[5.最长回文子串](https://github.com/zhyChesterCheung/LeetCode_Killer/blob/master/codes/LeetCode5.md)| 6ms | 2020-3-26 |
 | 4    |[2.两数相加_zhy](https://github.com/zhyChesterCheung/LeetCode_Killer/blob/master/codes/LeetCode2.md)| 3ms | 2020-3-29 |
 | 5    |[2.两数相加_Brant](https://github.com/zhyChesterCheung/LeetCode_Killer/blob/master/codes/LeetCode2_B.md)|     | 2020-3-30 |
-| 6    |[3.无重复字符的最长子串](https://github.com/zhyChesterCheung/LeetCode_Killer/blob/master/codes/LeetCode3.md)| 7ms | 2019-4-1 |
-| 7    |[4.寻找两个有序数组的中位数](https://github.com/zhyChesterCheung/LeetCode_Killer/blob/master/codes/LeetCode4.md)| 3ms | 2019-4-1 |
-| 8    |    |     |   |
-| 9    |    |     |   |
+| 6    |[3.无重复字符的最长子串](https://github.com/zhyChesterCheung/LeetCode_Killer/blob/master/codes/LeetCode3.md)| 7ms | 2020-4-1 |
+| 7    |[4.寻找两个有序数组的中位数](https://github.com/zhyChesterCheung/LeetCode_Killer/blob/master/codes/LeetCode4.md)| 3ms | 2020-4-1 |
+| 8    |[一维数组的动态和](https://github.com/zhyChesterCheung/LeetCode_Killer/blob/master/codes/LeetCode1480.md)| 100% | 2020-8-14 |
+| 9    |[拥有最多糖果的孩子](https://github.com/zhyChesterCheung/LeetCode_Killer/blob/master/codes/LeetCode1431.md)| 99.94% | 2020-8-14 |
 | 10   |    |     |   |
 | 11   |    |     |   |
 | 12   |    |     |   |
-| ...  |[两数相加]()|xx ms|xx-xx-xx|
+| ...  |[xxxx]()|xx ms|xx-xx-xx|
 
 
 
