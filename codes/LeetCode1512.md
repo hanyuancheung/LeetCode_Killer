@@ -1,6 +1,6 @@
 # LeetCode 第 1512 号问题：好数对的数目
 
-**from xxx**
+**from zhanghanyuan**
 
 题目来源于 LeetCode 上第 1512 号问题：好数对的数目。题目难度为 easy。
 
