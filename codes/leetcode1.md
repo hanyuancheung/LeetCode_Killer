@@ -1,6 +1,6 @@
 # LeetCode 第 1 号问题：两数之和
 
-**from Chester_zhy**
+**from zhanghanyuan**
 
 题目来源于 LeetCode 上第 1 号问题：两数之和。题目难度为 Easy，目前通过率为 45.8% 。
 

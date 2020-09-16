@@ -1,6 +1,6 @@
 # LeetCode 第 1480 号问题：一维数组的动态和
 
-**from Chester_zhy**
+**from zhanghanyuan**
 
 题目来源于 LeetCode 上第 1480 号问题：一维数组的动态和。题目难度为 Easy，目前通过率相对较高 。
 
@@ -51,3 +51,9 @@ class Solution {
     }
 }
 ```
+
+### 结果描述
+
+执行用时：0 ms, 在所有 Java 提交中击败了100.00%的用户
+
+内存消耗：40.1 MB, 在所有 Java 提交中击败了17.51%的用户
